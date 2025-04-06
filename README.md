@@ -1,40 +1,59 @@
+# 👋 Hey, I'm Adhin C
 
+🎯 **AI & ML Enthusiast | High-Frequency Trading Explorer | Problem Solver**
 
-<!--
-**adhin08/adhin08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing my B.Tech in Computer Science & Engineering at Government Engineering College, Wayanad. I thrive on building intelligent solutions using Machine Learning, Deep Learning, and Data Analysis. Recently, I’ve started diving into the fast-paced world of **AI-driven High-Frequency Trading (HFT)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Welcome to My Coding World! 🌟
+## 🚀 What I'm About
 
-Hey there! I'm Adhin C, a tech enthusiast on a journey to master the realms of Python, machine learning, web development, and app creation. I’m driven by a passion for solving complex problems and a dream to make the impossible possible. 🚀
+- 🧠 Passionate about real-world problem-solving with AI
+- 📊 Skilled in predictive modeling, data preprocessing & visualization
+- 🔁 Strong focus on model performance, experimentation & deployment
+- 💹 Currently exploring the intersection of **AI + Financial Markets**
 
+---
 
-## 🔍 About Me
+## 🧰 Tech Stack & Tools
 
- - **Languages & Tools**: Python, JavaScript, Dart, HTML, CSS, React, Node.js, and more
- - **Focus Areas**: Machine Learning, Web Development, Mobile Apps
- - **Goal**: To become a true expert and create innovative solutions that push boundaries
+- **Languages**: Python, C, Java
+- **Libraries & Frameworks**: Scikit-Learn, TensorFlow, XGBoost, mlxtend
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
+- **ML/DS Concepts**: Regression, Classification, Apriori, Market Basket Analysis
+- **Deployment**: Flask
+- **Tools**: Google Colab, Jupyter Notebook, Git, GitHub
 
- ## 🛠️ My Toolbox
+---
 
-- **Languages**: Python, JavaScript, Dart
-- **Frameworks & Libraries**: React, Node.js
-- **Development Tools**: Visual Studio Code, Google Colab
+## 📂 Projects
 
+### 🔧 [Car Price Prediction](https://github.com/adhin08/Car_Price_Prediction)
+- Built using XGBoost with 86% accuracy
+- Involved preprocessing, EDA, and hyperparameter tuning
+- Deployed with Flask
 
-## 📚 My Learning Path
+### 🛒 [Market Basket Analysis](https://github.com/adhin08/Market_Basket_Analysis)
+- Mined patterns from 500K+ transactions using Apriori
+- Generated product recommendations with confidence/lift metrics
 
-I believe in constant growth and learning. If you have any suggestions, opportunities, or just want to chat about tech, don't hesitate to reach out!
+> *More projects on AI + HFT coming soon...*
 
+---
 
+## 📜 Certifications
 
+- [Machine Learning by Andrew Ng – Coursera](https://coursera.org/share/513ff0cb4a43fa8c2ad27573ff4864c8)
+- [AI Internship – Ediglobe](https://drive.google.com/file/d/1dE7mOcx5tQVeyT02999XwSFSiHcB5hze/view?usp=sharing)
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/adhin-c-48160a346/)
+- 🐙 [GitHub](https://github.com/adhin08)
+- 📧 adhin.csan@gmail.com
+
+---
+
+> 🔄 Always learning, always building.
